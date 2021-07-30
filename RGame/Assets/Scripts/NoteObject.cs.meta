@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4c3e4cfe0ebb2ef4883f8a152cda46a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hitEffect: {fileID: 3822713142357152752, guid: c95d3b05a7b87f443a9ab7dad1cd4e6e,
+      type: 3}
+  - goodEffect: {fileID: 8700199776408749789, guid: b3d4af73ab832d845a95a947cb5da9d6,
+      type: 3}
+  - perfectEffect: {fileID: 8706535189398104011, guid: 2f64f7953b0118c4996c9ae9d7d67deb,
+      type: 3}
+  - missEffect: {fileID: 7576602356442212910, guid: 6c5257d71f05d394eac532a7280fe7bb,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
